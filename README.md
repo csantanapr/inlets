@@ -109,6 +109,7 @@ Community tutorials:
 * [Using local services in Gitpod with inlets](https://www.gitpod.io/blog/local-services-in-gitpod/)
 * [Scheduling Kubernetes workloads to Raspberry Pi using Inlets and Crossplane](https://github.com/crossplaneio/tbs/blob/master/episodes/9/assets/README.md) by [Daniel Mangum](https://github.com/hasheddan)
   * Also checkout the live [demo](https://youtu.be/RVAFEAnirZA)
+* [Using IBM Cloud Kubernetes as a free Cloud IP for your laptop minikube](https://github.com/csantanapr/inlets-iks-to-minikube-tutorial) 
 
 Twitter:
 
